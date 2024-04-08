@@ -4,79 +4,79 @@ Test,Value
 ---------------------,---------------------
 Z-Score,0.00
 Chi Sqrd,0.00
-Correlation Coefficient,1.0
+Correlation Coefficient,0.9999999999999998
 ---------------------,---------------------
 ,
 ROM 2nd floor,ROM 1st Floor
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,-15.82
-Chi Sqrd,0.77
-Correlation Coefficient,-0.041221229161381746
+Z-Score,-14.31
+Chi Sqrd,1.66
+Correlation Coefficient,0.34206086897133176
 ---------------------,---------------------
 ,
 ROM 2nd floor,ROM Basement
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,-27.39
-Chi Sqrd,1.08
-Correlation Coefficient,0.05980213377820056
+Z-Score,-6.06
+Chi Sqrd,1.74
+Correlation Coefficient,0.20627718396315753
 ---------------------,---------------------
 ,
 ROM 2nd floor,Stadium Top
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,37.29
-Chi Sqrd,5.28
-Correlation Coefficient,-0.9140533081515401
+Z-Score,22.32
+Chi Sqrd,8.19
+Correlation Coefficient,-0.7802290685077453
 ---------------------,---------------------
 ,
 ROM 2nd floor,Stadium Middle
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,29.62
-Chi Sqrd,2.92
-Correlation Coefficient,0.38821468779637286
+Z-Score,18.39
+Chi Sqrd,4.23
+Correlation Coefficient,-0.4293191570813026
 ---------------------,---------------------
 ,
 ROM 2nd floor,Stadium Base
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,20.03
-Chi Sqrd,0.63
-Correlation Coefficient,0.6441124096046975
+Z-Score,9.42
+Chi Sqrd,0.82
+Correlation Coefficient,0.30760994601555003
 ---------------------,---------------------
 ,
 ROM 2nd floor,Ricks 2
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,19.45
-Chi Sqrd,0.90
-Correlation Coefficient,0.4669143729146719
+Z-Score,11.51
+Chi Sqrd,1.21
+Correlation Coefficient,0.4706949795977329
 ---------------------,---------------------
 ,
 ROM 2nd floor,Ricks 1
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,8.41
-Chi Sqrd,0.25
-Correlation Coefficient,0.1732344002500058
+Z-Score,5.32
+Chi Sqrd,0.27
+Correlation Coefficient,0.413852471472305
 ---------------------,---------------------
 ,
 ROM 2nd floor,Ricks Basement
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,5.58
-Chi Sqrd,0.12
-Correlation Coefficient,0.24469405743450057
+Z-Score,2.27
+Chi Sqrd,0.10
+Correlation Coefficient,0.01609024188750101
 ---------------------,---------------------
 ,
 ROM 1st Floor,ROM 1st Floor
@@ -85,70 +85,70 @@ Test,Value
 ---------------------,---------------------
 Z-Score,0.00
 Chi Sqrd,0.00
-Correlation Coefficient,0.9999999999999999
+Correlation Coefficient,0.9999999999999998
 ---------------------,---------------------
 ,
 ROM 1st Floor,ROM Basement
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,-3.39
-Chi Sqrd,0.04
-Correlation Coefficient,-0.25925630591799986
+Z-Score,0.06
+Chi Sqrd,0.14
+Correlation Coefficient,0.7538073096528801
 ---------------------,---------------------
 ,
 ROM 1st Floor,Stadium Top
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,36.67
-Chi Sqrd,11.00
-Correlation Coefficient,-0.27032323345015963
+Z-Score,39.52
+Chi Sqrd,18.49
+Correlation Coefficient,-0.023748515537923356
 ---------------------,---------------------
 ,
 ROM 1st Floor,Stadium Middle
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,32.73
-Chi Sqrd,7.19
-Correlation Coefficient,-0.9217760523860129
+Z-Score,35.97
+Chi Sqrd,11.72
+Correlation Coefficient,-0.009540866503929138
 ---------------------,---------------------
 ,
 ROM 1st Floor,Stadium Base
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,26.64
-Chi Sqrd,2.87
-Correlation Coefficient,0.3951561679468489
+Z-Score,27.19
+Chi Sqrd,4.75
+Correlation Coefficient,0.6487782272269156
 ---------------------,---------------------
 ,
 ROM 1st Floor,Ricks 2
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,26.81
-Chi Sqrd,3.45
-Correlation Coefficient,0.44393149422619815
+Z-Score,29.52
+Chi Sqrd,5.76
+Correlation Coefficient,0.481695650996462
 ---------------------,---------------------
 ,
 ROM 1st Floor,Ricks 1
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,19.68
-Chi Sqrd,1.89
-Correlation Coefficient,0.6756046152778371
+Z-Score,22.76
+Chi Sqrd,3.11
+Correlation Coefficient,0.5247239095392017
 ---------------------,---------------------
 ,
 ROM 1st Floor,Ricks Basement
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,17.56
-Chi Sqrd,1.48
-Correlation Coefficient,-0.5038817058466126
+Z-Score,19.42
+Chi Sqrd,2.21
+Correlation Coefficient,-0.18715077515804254
 ---------------------,---------------------
 ,
 ROM Basement,ROM Basement
@@ -164,54 +164,54 @@ ROM Basement,Stadium Top
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,56.58
-Chi Sqrd,12.38
-Correlation Coefficient,0.09968683148541242
+Z-Score,13.60
+Chi Sqrd,18.43
+Correlation Coefficient,-0.026654411029308583
 ---------------------,---------------------
 ,
 ROM Basement,Stadium Middle
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,50.12
-Chi Sqrd,8.20
-Correlation Coefficient,0.41377209467376674
+Z-Score,12.25
+Chi Sqrd,11.72
+Correlation Coefficient,-0.06386138346856433
 ---------------------,---------------------
 ,
 ROM Basement,Stadium Base
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,44.30
-Chi Sqrd,3.49
-Correlation Coefficient,0.42663424331506955
+Z-Score,9.39
+Chi Sqrd,4.75
+Correlation Coefficient,0.558866939518443
 ---------------------,---------------------
 ,
 ROM Basement,Ricks 2
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,42.03
-Chi Sqrd,4.14
-Correlation Coefficient,0.5119524149544176
+Z-Score,10.02
+Chi Sqrd,5.78
+Correlation Coefficient,0.3272796353821764
 ---------------------,---------------------
 ,
 ROM Basement,Ricks 1
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,29.19
-Chi Sqrd,2.40
-Correlation Coefficient,-0.12176711161323163
+Z-Score,8.06
+Chi Sqrd,3.17
+Correlation Coefficient,0.29476488845290044
 ---------------------,---------------------
 ,
 ROM Basement,Ricks Basement
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,26.13
-Chi Sqrd,1.89
-Correlation Coefficient,0.8029697259683698
+Z-Score,7.03
+Chi Sqrd,2.32
+Correlation Coefficient,-0.16378301975766216
 ---------------------,---------------------
 ,
 Stadium Top,Stadium Top
@@ -220,52 +220,52 @@ Test,Value
 ---------------------,---------------------
 Z-Score,0.00
 Chi Sqrd,0.00
-Correlation Coefficient,1.0000000000000002
+Correlation Coefficient,0.9999999999999999
 ---------------------,---------------------
 ,
 Stadium Top,Stadium Middle
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,-5.65
-Chi Sqrd,0.32
-Correlation Coefficient,-0.06971636293368506
+Z-Score,-8.27
+Chi Sqrd,0.59
+Correlation Coefficient,0.2400502997065927
 ---------------------,---------------------
 ,
 Stadium Top,Stadium Base
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,-22.03
-Chi Sqrd,2.09
-Correlation Coefficient,-0.7736313642470652
+Z-Score,-23.82
+Chi Sqrd,3.61
+Correlation Coefficient,0.05115559841472676
 ---------------------,---------------------
 ,
 Stadium Top,Ricks 2
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,-15.96
-Chi Sqrd,1.67
-Correlation Coefficient,-0.6266432075857089
+Z-Score,-22.19
+Chi Sqrd,2.86
+Correlation Coefficient,-0.24993361301097997
 ---------------------,---------------------
 ,
 Stadium Top,Ricks 1
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,-18.56
-Chi Sqrd,3.12
-Correlation Coefficient,-0.1872313107002128
+Z-Score,-27.92
+Chi Sqrd,5.41
+Correlation Coefficient,-0.34797460346157744
 ---------------------,---------------------
 ,
 Stadium Top,Ricks Basement
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,-20.33
-Chi Sqrd,3.75
-Correlation Coefficient,0.10174570812147964
+Z-Score,-30.49
+Chi Sqrd,6.88
+Correlation Coefficient,-0.1304055101060199
 ---------------------,---------------------
 ,
 Stadium Middle,Stadium Middle
@@ -274,43 +274,43 @@ Test,Value
 ---------------------,---------------------
 Z-Score,0.00
 Chi Sqrd,0.00
-Correlation Coefficient,0.9999999999999999
+Correlation Coefficient,1.0
 ---------------------,---------------------
 ,
 Stadium Middle,Stadium Base
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,-14.27
-Chi Sqrd,0.80
-Correlation Coefficient,-0.03792737443441121
+Z-Score,-16.81
+Chi Sqrd,1.31
+Correlation Coefficient,0.0620474619077346
 ---------------------,---------------------
 ,
 Stadium Middle,Ricks 2
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,-9.79
-Chi Sqrd,0.56
-Correlation Coefficient,-0.12509613775423128
+Z-Score,-14.52
+Chi Sqrd,0.90
+Correlation Coefficient,-0.8237015904732278
 ---------------------,---------------------
 ,
 Stadium Middle,Ricks 1
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,-13.82
-Chi Sqrd,1.47
-Correlation Coefficient,-0.5646480635767316
+Z-Score,-21.73
+Chi Sqrd,2.38
+Correlation Coefficient,0.3940462997049506
 ---------------------,---------------------
 ,
 Stadium Middle,Ricks Basement
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,-15.74
-Chi Sqrd,1.86
-Correlation Coefficient,0.6417280754977264
+Z-Score,-24.82
+Chi Sqrd,3.35
+Correlation Coefficient,0.3027047270424854
 ---------------------,---------------------
 ,
 Stadium Base,Stadium Base
@@ -326,27 +326,27 @@ Stadium Base,Ricks 2
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,2.89
-Chi Sqrd,0.02
-Correlation Coefficient,0.9764158331162061
+Z-Score,3.62
+Chi Sqrd,0.06
+Correlation Coefficient,0.19035690712690767
 ---------------------,---------------------
 ,
 Stadium Base,Ricks 1
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,-4.69
-Chi Sqrd,0.11
-Correlation Coefficient,0.1565497960556656
+Z-Score,-6.44
+Chi Sqrd,0.18
+Correlation Coefficient,0.3804936676299537
 ---------------------,---------------------
 ,
 Stadium Base,Ricks Basement
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,-7.12
-Chi Sqrd,0.23
-Correlation Coefficient,0.12298647073572463
+Z-Score,-10.63
+Chi Sqrd,0.49
+Correlation Coefficient,0.0516114160879325
 ---------------------,---------------------
 ,
 Ricks 2,Ricks 2
@@ -355,25 +355,25 @@ Test,Value
 ---------------------,---------------------
 Z-Score,0.00
 Chi Sqrd,0.00
-Correlation Coefficient,0.9999999999999999
+Correlation Coefficient,1.0
 ---------------------,---------------------
 ,
 Ricks 2,Ricks 1
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,-6.23
-Chi Sqrd,0.23
-Correlation Coefficient,0.12886528388537163
+Z-Score,-10.08
+Chi Sqrd,0.39
+Correlation Coefficient,0.034787382015937535
 ---------------------,---------------------
 ,
 Ricks 2,Ricks Basement
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,-8.43
-Chi Sqrd,0.40
-Correlation Coefficient,0.11451099689386823
+Z-Score,-14.16
+Chi Sqrd,0.82
+Correlation Coefficient,-0.2688393089013495
 ---------------------,---------------------
 ,
 Ricks 1,Ricks 1
@@ -382,16 +382,16 @@ Test,Value
 ---------------------,---------------------
 Z-Score,0.00
 Chi Sqrd,0.00
-Correlation Coefficient,0.9999999999999999
+Correlation Coefficient,1.0
 ---------------------,---------------------
 ,
 Ricks 1,Ricks Basement
 =====================,=====================
 Test,Value
 ---------------------,---------------------
-Z-Score,-2.08
-Chi Sqrd,0.05
-Correlation Coefficient,0.07194675299355918
+Z-Score,-4.34
+Chi Sqrd,0.11
+Correlation Coefficient,0.17754396892394775
 ---------------------,---------------------
 ,
 Ricks Basement,Ricks Basement
@@ -400,6 +400,6 @@ Test,Value
 ---------------------,---------------------
 Z-Score,0.00
 Chi Sqrd,0.00
-Correlation Coefficient,1.0
+Correlation Coefficient,0.9999999999999999
 ---------------------,---------------------
 ,
